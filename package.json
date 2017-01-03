@@ -1,0 +1,106 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "grunt-jtemplate",
+        "scope": null,
+        "escapedName": "grunt-jtemplate",
+        "name": "grunt-jtemplate",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      }
+    ]
+  ],
+  "_from": "grunt-jtemplate@latest",
+  "_id": "grunt-jtemplate@1.0.0",
+  "_inCache": true,
+  "_location": "/grunt-jtemplate",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/grunt-jtemplate-1.0.0.tgz_1477655244439_0.7231979719363153"
+  },
+  "_npmUser": {
+    "name": "r0mk1n",
+    "email": "r0mk1n.sti@gmail.com"
+  },
+  "_npmVersion": "3.10.8",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "grunt-jtemplate",
+    "scope": null,
+    "escapedName": "grunt-jtemplate",
+    "name": "grunt-jtemplate",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/grunt-jtemplate/-/grunt-jtemplate-1.0.0.tgz",
+  "_shasum": "e12d154cafff2edb5bdfa0b220c62e0cda00ce01",
+  "_shrinkwrap": null,
+  "_spec": "grunt-jtemplate",
+  "_where": "D:\\#htdocs\\#node_projects\\waka",
+  "author": {
+    "name": "Jon Jaques",
+    "email": "jon@jonjaques.com"
+  },
+  "bugs": {
+    "url": "https://github.com/r0mk1n/grunt-jtemplate/issues"
+  },
+  "dependencies": {},
+  "description": "JSON file for all yo templates",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-nodeunit": "~0.1.2"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e12d154cafff2edb5bdfa0b220c62e0cda00ce01",
+    "tarball": "https://registry.npmjs.org/grunt-jtemplate/-/grunt-jtemplate-1.0.0.tgz"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "gitHead": "1df720eafffb1a0fe53590fe981d9c702ca90786",
+  "homepage": "https://github.com/r0mk1n/grunt-jtemplate",
+  "keywords": [
+    "html",
+    "concat",
+    "json",
+    "gruntplugin"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonjaques/grunt-htmljson/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "maintainers": [
+    {
+      "name": "r0mk1n",
+      "email": "r0mk1n.sti@gmail.com"
+    }
+  ],
+  "name": "grunt-jtemplate",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/r0mk1n/grunt-jtemplate.git"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "version": "1.0.0"
+}

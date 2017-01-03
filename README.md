@@ -1,4 +1,4 @@
-# jtemplate
+# grunt-jtemplate
 
 > JSON for yo html templates
 
@@ -8,19 +8,19 @@ This plugin requires Grunt `~0.4.1`
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
 ```shell
-npm install jtemplate --save-dev
+npm install grunt-jtemplate --save-dev
 ```
 
 Once the plugin has been installed, it may be enabled inside your Gruntfile with this line of JavaScript:
 
 ```js
-grunt.loadNpmTasks('jtemplate');
+grunt.loadNpmTasks('grunt-jtemplate');
 ```
 
-## The "jtemplate" task
+## The "grunt-jtemplate" task
 
 ### Overview
-In your project's Gruntfile, add a section named `jtemplate` to the data object passed into `grunt.initConfig()`.
+In your project's Gruntfile, add a section named `grunt-jtemplate` to the data object passed into `grunt.initConfig()`.
 
 ### Options
 
@@ -37,7 +37,7 @@ In this example, the default options are used to do something with whatever. So 
 
 ```js
 grunt.initConfig({
-  jtemplate: {
+  grunt-jtemplate: {
     src: ['src/templates/**/*.html'],
     dest: 'dist/templates/combined.json'
   }
@@ -49,7 +49,7 @@ In this example, custom options are used to do something else with whatever else
 
 ```js
 grunt.initConfig({
-  jtemplate: {
+  grunt-jtemplate: {
     src: ['src/templates/**/*.html'],
     dest: 'dist/templates/combined.json',
     options: {
@@ -69,4 +69,4 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 ```
 0.1.0 -- Initial release
 ```
-"# grunt-jtemplate" 
+"# grunt-grunt-jtemplate" 
