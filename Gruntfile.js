@@ -29,7 +29,7 @@ module.exports = function (grunt) {
         },
 
         // Configuration to be run (and then tested).
-        grunt-jtemplate: {
+        'grunt-jtemplate': {
             default_options: {
                 cwd: 'example/src/',
                 src: ['**/*'],
