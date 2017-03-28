@@ -34,7 +34,7 @@ module.exports = function (grunt) {
         return JSON.stringify(result, null, o.separator);
     }
 
-    grunt.task.registerMultiTask('grunt-jtemplate', 'Compile html or any txt files into a json file.', function () {
+    grunt.task.registerMultiTask('jtemplate', 'Compile html or any txt files into a json file.', function () {
         var self = this;
 
         var files;
